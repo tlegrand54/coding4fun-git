@@ -40,3 +40,19 @@
 @snap[east span-50]
 ![](assets/img/slide3.png)
 @snapend
+
+---
+@title[Trees]
+
+@snap[west span-50]
+@ul[spaced text-white]
+- Local repository contains 3 trees
+- Working home : Contains source files
+- Index : Tempory space
+- HEAD : Last validation
+@ulend
+@snapend
+
+@snap[east span-50]
+![](assets/img/slide3.png)
+@snapend
