@@ -34,6 +34,7 @@ footnote : "Git Presentation"
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
+code-line-numbers : true
 
 #
 # Twitter Card Settings [Pro Only]
