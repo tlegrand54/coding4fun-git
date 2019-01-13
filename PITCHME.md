@@ -4,8 +4,8 @@
 @title[Git architecture]
 
 @snap[west span-50]
-@size[20px](Git is a distributed version control system)
-@size[20px](Most used => Github, GitLab, Local Git, Bitbucket)
+- Git is a distributed version control system (vs SVN which is centralized)
+- Most used => Github, GitLab, Local Git, Bitbucket
 @snapend
 
 @snap[east span-50]
