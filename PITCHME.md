@@ -70,3 +70,39 @@
 @ulend
 
 ---
+@title[Branch]
+### @css[headline](Branch)
+
+---
+@title[Branch]
+@ul[spaced text-white]
+- Create new branch : git checkout -b feature_x
+- Change branch : git checkout master
+- Remove branch : git branch -d feature_x
+- Push branch to remote : git push origin feature_x
+@ulend
+
+---
+@title[Update & Merge]
+### @css[headline](Update & Merge)
+
+---
+@title[Update & Merge]
+@ul[spaced text-white]
+- Update local repository : git pull
+- Merge branch : git merge BRANCH
+- git diff SOURCE_BRANCH TARGET_BRANCH
+@ulend
+
+---
+@title[Others commands]
+### @css[headline](Others commands)
+
+---
+@title[Others commands]
+@ul[spaced text-white]
+- Create tag : git tag VERSION ID (get ID with git log) (ex : git tag 1.0.0 1b2e1d63ff)
+- Cancel local changeset : git checkout -- FILENAME
+- git diff SOURCE_BRANCH TARGET_BRANCH
+- Remove all changes and local validation : git fetch origin & git reset --hard origin/master
+@ulend
