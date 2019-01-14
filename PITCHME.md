@@ -38,14 +38,14 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/slide3.png)
+![](assets/img/slide3bis.png)
 @snapend
 
 ---
 @title[Add and Commit]
 
 @ul[spaced text-white]
-- Propose a change (add changeset in Index) : git add <filename>
+- Propose a change (add changeset in Index) : git add filename
 - Valid changes (file added in HEAD): git commit -m 'Validation message'
 @ulend
 
