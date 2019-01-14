@@ -156,3 +156,23 @@ git checkout -b YOUR_FEATURE_NAME
 @snap[east span-50]
 ![](assets/img/changes.png)
 @snapend
+
+---
+@title[Pull request]
+@snap[north span-30]
+Pull Request
+@snapend
+
+@snap[south span-70]
+![](assets/img/pullrequest.png)
+@snapend
+
+---
+@title[Pull request]
+@snap[north span-30]
+Pull Request
+@snapend
+
+@snap[south span-70]
+![](assets/img/pullrequest2.png)
+@snapend
