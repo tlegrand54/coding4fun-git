@@ -144,6 +144,7 @@ git checkout -b YOUR_FEATURE_NAME
 @snapend
 
 ---
+@title[Make your changes]
 @snap[west span-50]
 @ul[spaced text-white]
 - Make your changes
