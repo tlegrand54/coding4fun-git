@@ -188,9 +188,16 @@ Pull Request
 ---
 @title[CI]
 @snap[north span-50]
-![](assets/img/appveyor2.png)
+![](assets/img/appveyor.png)
 @snapend
 
 @snap[south span-50]
 ![](assets/img/appveyor2.png)
 @snapend
+
+---
+@title[Bonus]
+@ul[spaced text-white]
+- https://github.com/marketplace/category/continuous-integration
+- Find AppVeyor
+@ulend
