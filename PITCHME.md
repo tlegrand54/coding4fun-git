@@ -142,3 +142,17 @@ https://github.com/LGouellec/coding4fun-git
 git checkout -b YOUR_FEATURE_NAME
 ![](assets/img/branch.png)
 @snapend
+
+---
+@snap[west span-50]
+@ul[spaced text-white]
+- Make your changes
+- Don't forget to add changed file to index : (git add filename)
+- git commit -m 'Added feature'
+- git push origin my-new-f
+@ulend
+@snapend
+
+@snap[east span-50]
+![](assets/img/changes.png)
+@snapend
