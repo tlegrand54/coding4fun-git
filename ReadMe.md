@@ -1,8 +1,6 @@
 TODO : 
 Faire presentation git + Tutorial avec screen shot
 
-- 2/3 mots sur git (ignorez file, creation branch, merge , log, etc ...)
-- Fork de mon repository + clone repository
 - Create branch
 - Update source code + commit/push sur leur repository
 - Pull request sur mon repository

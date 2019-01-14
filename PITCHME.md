@@ -106,3 +106,29 @@
 - git diff SOURCE_BRANCH TARGET_BRANCH
 - Remove all changes and local validation : git fetch origin & git reset --hard origin/master
 @ulend
+
+---
+@title[Contrib in open source project]
+### @css[headline](Contrib in open source project)
+
+---
+@title[FORK]
+@snap[north span-50]
+### FORK my repository
+@snapend
+
+@snap[south span-50]
+https://github.com/LGouellec/coding4fun-git
+![](assets/img/fork.png)
+@snapend
+
+---
+@title[CLONE]
+@snap[north span-50]
+### CLONE your repository
+@snapend
+
+@snap[south span-50]
+git clone https://github.com/YOUR_LOGIN/coding4fun-git.git
+![](assets/img/clone.png)
+@snapend
