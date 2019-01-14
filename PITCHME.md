@@ -17,6 +17,9 @@
 ---
 @title[Git : CLONE]
 ### @css[headline](Clone repository)
+
+---
+@title[Git : CLONE]
 @snap[west span-50]
 ### Clone : Get copy about remote repository
 @snapend
@@ -28,6 +31,9 @@
 ---
 @title[Trees]
 ### @css[headline](Local Trees)
+
+---
+@title[Trees]
 @snap[west span-50]
 @ul[spaced text-white]
 - Local repository contains 3 trees
@@ -44,6 +50,9 @@
 ---
 @title[Add and Commit]
 ### @css[headline](Add and Commit)
+
+---
+@title[Add and Commit]
 @ul[spaced text-white]
 - Propose a change (add changeset in Index) : git add FILENAME
 - Valid changes (file added in HEAD): git commit -m 'Validation message'
@@ -52,6 +61,9 @@
 ---
 @title[Send changes]
 ### @css[headline](Send changes)
+
+---
+@title[Send changes]
 @ul[spaced text-white]
 - Send changes from HEAD to remote repository : git push origin master (git push REMOTE BRANCH)
 - You can add new remote : git remote add REMOTE_NAME SERVER
