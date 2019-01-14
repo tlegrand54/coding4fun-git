@@ -1,7 +1,6 @@
 TODO : 
 Faire presentation git + Tutorial avec screen shot
 
-- Create branch
 - Update source code + commit/push sur leur repository
 - Pull request sur mon repository
 - CI avec AppVeyor (Market place : https://github.com/marketplace/category/continuous-integration)

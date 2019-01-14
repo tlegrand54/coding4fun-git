@@ -107,9 +107,9 @@
 - Remove all changes and local validation : git fetch origin & git reset --hard origin/master
 @ulend
 
----
+---?color=#F6D365
 @title[Contrib in open source project]
-### @css[headline](Contrib in open source project)
+@box[bg-orange text-white rounded demo-box-pad](Contrib in open source project)
 
 ---
 @title[FORK]
