@@ -124,11 +124,11 @@ https://github.com/LGouellec/coding4fun-git
 
 ---
 @title[CLONE]
-@snap[north span-50]
+@snap[north span-30]
 ### CLONE your repository
 @snapend
 
-@snap[south span-50]
+@snap[south span-70]
 git clone https://github.com/YOUR_LOGIN/coding4fun-git.git
 ![](assets/img/clone.png)
 @snapend
