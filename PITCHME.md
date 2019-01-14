@@ -42,17 +42,11 @@
 @snapend
 
 ---
-@title[Trees]
+@title[Add and Commit]
 
-@snap[west span-50]
 @ul[spaced text-white]
-- Local repository contains 3 trees
-- Working home : Contains source files
-- Index : Tempory space
-- HEAD : Last validation
+- Propose a change (add changeset in Index) : git add <filename>
+- Valid changes (file added in HEAD): git commit -m 'Validation message'
 @ulend
-@snapend
 
-@snap[east span-50]
-![](assets/img/slide3.png)
-@snapend
+---
