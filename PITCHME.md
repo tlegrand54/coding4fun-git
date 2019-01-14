@@ -177,3 +177,20 @@ Pull Request
 @snap[south span-70]
 ![](assets/img/pullrequest2.png)
 @snapend
+
+---
+@title[CI]
+@ul[spaced text-white]
+- https://github.com/marketplace/category/continuous-integration
+- Find AppVeyor
+@ulend
+
+---
+@title[CI]
+@snap[north span-50]
+![](assets/img/appveyor2.png)
+@snapend
+
+@snap[south span-50]
+![](assets/img/appveyor2.png)
+@snapend
