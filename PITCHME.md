@@ -197,7 +197,13 @@ Pull Request
 
 ---
 @title[Bonus]
+@snap[west span-50]
 @ul[spaced text-white]
-- https://github.com/marketplace/category/continuous-integration
-- Find AppVeyor
+- Deploy (git local) web app sur Azure
 @ulend
+@snapend
+
+@snap[east span-50]
+![](assets/img/azure.png)
+@snapend
+
