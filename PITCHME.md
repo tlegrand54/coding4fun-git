@@ -199,7 +199,7 @@ Pull Request
 @title[Bonus]
 @snap[west span-50]
 @ul[spaced text-white]
-- Deploy (git local) web app sur Azure
+- Bonus : Deploy (git local) web app on Azure
 @ulend
 @snapend
 
