@@ -1,3 +1,4 @@
 Pre-requis : 
 - Avoir un compte github
-- Install : Git, VSCode + dotnet core SDK 2.1
+- Mandatory : Git (https://git-scm.com/download)
+- Optional : VSCode + dotnet core SDK 2.1
