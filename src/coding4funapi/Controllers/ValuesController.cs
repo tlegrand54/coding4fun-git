@@ -14,7 +14,7 @@ namespace coding4funapi.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2", "value3" };
+            return new string[] { "ChangeValueFromTTT", "value2", "value3" };
         }
 
         // GET api/values/5
